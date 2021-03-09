@@ -1,0 +1,7 @@
+C:\Users\EMSI-TP\Desktop\atelier1\atelier1\atelier1\obj\Debug\atelier1.csprojAssemblyReference.cache
+C:\Users\EMSI-TP\Desktop\atelier1\atelier1\atelier1\obj\Debug\atelier1.csproj.CoreCompileInputs.cache
+C:\Users\EMSI-TP\Desktop\atelier1\atelier1\atelier1\bin\Debug\atelier1.exe.config
+C:\Users\EMSI-TP\Desktop\atelier1\atelier1\atelier1\bin\Debug\atelier1.exe
+C:\Users\EMSI-TP\Desktop\atelier1\atelier1\atelier1\bin\Debug\atelier1.pdb
+C:\Users\EMSI-TP\Desktop\atelier1\atelier1\atelier1\obj\Debug\atelier1.exe
+C:\Users\EMSI-TP\Desktop\atelier1\atelier1\atelier1\obj\Debug\atelier1.pdb
